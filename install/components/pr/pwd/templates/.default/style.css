@@ -1,0 +1,16 @@
+.pr_pwd {
+	padding: 10px 0;
+}
+
+.pr_pwd .error {
+	color: red;
+	padding: 5px 0;
+}
+
+.pr_pwd input[type="password"] {
+
+}
+
+.pr_pwd input[type="submit"] {
+
+}
